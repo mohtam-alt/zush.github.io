@@ -1,1 +1,3 @@
-# zush.github.io
+# zush
+
+Your reliable technology partner.
